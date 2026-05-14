@@ -13,3 +13,6 @@ Certification Requirements:
 - Complete 5 Core Projects
 - Pass the Final Certification Exam
 
+<img width="1221" height="818" alt="image" src="https://github.com/user-attachments/assets/f0a62b29-5d88-4bde-8c2d-ef7de30df674" />
+
+
