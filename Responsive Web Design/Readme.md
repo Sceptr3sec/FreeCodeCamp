@@ -12,3 +12,4 @@ Certification Requirements:
 
 - Complete 5 Core Projects
 - Pass the Final Certification Exam
+
